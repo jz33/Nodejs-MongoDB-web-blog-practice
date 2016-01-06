@@ -14,8 +14,6 @@ Install node modules
 
     bash global_packages.sh (Mac OS)
     global_packages.bat (Windows)
-    
-    export NODE_PATH=/${path_to_your_modules}
 
 Start MongoDB:
 
