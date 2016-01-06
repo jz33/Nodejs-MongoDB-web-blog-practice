@@ -1,21 +1,20 @@
 # Nodejs-MongoDB-web-blog-practice
-A NodeJS + MongoDB based web blog for self practice purpose
+A NodeJS + MongoDB based web blog for practice purpose
 
-The Blog is based on homework of "MongoDB for Node.js developer" course
+The Blog is based on homework of "MongoDB for Node.js developer" course (M101JS)
 
-Current work is about html template
-
-Install Software:
+Install Softwares
 
 MongoDB version 3.0.5
+
 Node v0.12.1
 
 Install node modules
 
-    bash global_packages.sh (Mac OS)
+    global_packages.sh (Mac OS)
     global_packages.bat (Windows)
 
-Start MongoDB:
+Start MongoDB
 
     mongod
 
